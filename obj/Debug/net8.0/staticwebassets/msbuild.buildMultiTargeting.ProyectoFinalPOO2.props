@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ProyectoFinalPOO2.props" />
+</Project>

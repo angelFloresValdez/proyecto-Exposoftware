@@ -1,0 +1,23 @@
+@model JefeModel
+
+@{
+    ViewData["Title"] = "Borrar jefe";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Información del jefe</h5>
+            <h6 class="card-subtitle mb-2 text-body-secondary">¿Seguro que desea borrar el jefe?</h6>
+            <p class="card-text">Jefe: @Model.NombreJefe del departamento de: @Model.Departamento</p>
+            <!-- Formulario para enviar datos al método "JefeDelete" del controlador "Encargado" -->
+            <form asp-controller="Encargado" asp-action="JefeDelete" method="post">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit"
+                    class="btn btn-outline-danger">Borrar</button><!-- Botón para confirmar y borrar el jefe -->
+                <a class="btn btn-outline-secondary"
+                    asp-action="MenuEnc">Cancelar</a><!-- Botón para Regresar al menu sin borrar nada-->
+            </form>
+        </div>
+    </div>
+</div>

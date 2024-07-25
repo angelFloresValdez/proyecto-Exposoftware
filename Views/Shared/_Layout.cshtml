@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProyectoFinalPOO2</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProyectoFinalPOO2.styles.css" asp-append-version="true" />
+
+    <style>
+        /* Estilos adicionales */
+        .navbar-brand img {
+            width: 80px;
+            /* Ajusta el tamaño de la imagen */
+            height: 70px;
+            margin-left: 20px;
+        }
+
+        .navbar-nav {
+            flex: 1;
+            justify-content: center;
+            /* Centra los enlaces de navegación */
+        }
+
+        .navbar-right {
+            display: flex;
+            align-items: center;
+        }
+
+        .btn-outline-primary,
+        .btn-primary {
+            margin-left: 10px;
+        }
+
+        /* Nuevo estilo para cambiar el fondo del enlace al pasar el ratón */
+        .nav-item a:hover {
+            background-color: rgb(0, 94, 255);
+            color: white !important;
+            border-radius: 5px;
+        }
+
+        .nav-item a {
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-0">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/img/LogoLuxor.jpg" width="55" height="50">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">INICIO</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Servicios">SERVICIOS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contacto">CONTACTO</a>
+                        </li>
+                    </ul>
+                    <div class="navbar-right">
+                        <a class="btn btn-outline-primary" asp-area="" asp-controller="Home" asp-action="IniciarSesion">INICIAR SESIÓN</a>
+                        <a class="btn btn-primary ml-2" asp-area="" asp-controller="Home" asp-action="CrearCuenta">REGISTRO</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container-fluid p-0">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+</body>
+
+</html>

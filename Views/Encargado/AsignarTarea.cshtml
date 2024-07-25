@@ -1,0 +1,390 @@
+@model List<TareaModel>
+
+@{
+    ViewData["Title"] = "Lista de Tareas";
+
+    Layout = null; // No especifica el layout para esta vista
+}
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <center>Asignar Tareas</center>
+    </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #5D89B3;
+            height: 100vh;
+            /* Ajustar para que ocupe toda la altura de la ventana */
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            width: 100px;
+            height: auto;
+            margin-right: 10px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        .date {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .kanban-board {
+            display: flex;
+            gap: 20px;
+            flex-grow: 1;
+            overflow: hidden;
+        }
+
+        .column {
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            height: calc(80vh - 60px);
+            /* Ajustar altura para que ocupe toda la pantalla */
+            overflow-y: auto;
+            /* Permitir el desplazamiento vertical */
+        }
+
+        .column-header {
+            background-color: #ddd;
+            padding: 10px;
+            border-radius: 5px 5px 0 0;
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .task {
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .task-content {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        .task-content p {
+            margin: 5px 0;
+        }
+
+        .task-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .task-actions button {
+            background-color: #007bff;
+            /* Azul (primary) */
+            color: white;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .task-actions button:hover {
+            background-color: #0056b3;
+            /* Azul más oscuro */
+        }
+
+        .task-actions .btn-delete {
+            background-color: #dc3545;
+            /* Rojo (danger) */
+        }
+
+        .task-actions .btn-delete:hover {
+            background-color: #c82333;
+            /* Rojo más oscuro */
+        }
+
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .buttons button {
+            background-color: #007bff;
+            /* Azul (primary) */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .container img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .header img {
+            width: 50px;
+            height: auto;
+        }
+
+        .buttons button:hover {
+            background-color: #0056b3;
+            /* Azul más oscuro */
+        }
+
+        .btn-outline-primary {
+            color: #007bff;
+            border: 1px solid #007bff;
+            background-color: transparent;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-outline-primary:hover {
+            background-color: #0069d9;
+            border-color: #0062cc;
+            color: #fff;
+        }
+
+        .btn-outline-danger {
+            color: #dc3545;
+            border: 1px solid #dc3545;
+            background-color: transparent;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-outline-danger:hover {
+            background-color: #dc3545;
+            border-color: #dc3545;
+            color: #fff;
+        }
+
+        .btn-group {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .btn-group .btn {
+            margin-right: 10px;
+        }
+
+        .btn-left {
+            align-self: flex-start;
+        }
+
+        .btn-center {
+            align-self: center;
+        }
+
+        .btn-right {
+            align-self: flex-end;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <!-- Encabezado con logo y título -->
+            <div class="logo">
+                <img src="~/img/LogoLuxor.jpg" width="55" height="50">
+                <h1>Asignar Tareas</h1>
+            </div>
+            <!-- Muestra la fecha actual -->
+            <div class="date">
+                @DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")
+            </div>
+        </div>
+        <div class="kanban-board">
+            <!-- Columna 'Por Hacer' -->
+            <div class="column">
+                <div class="column-header">Por Hacer</div>
+                @foreach (var tarea in Model.Where(t => t.Status == "Por Hacer"))
+
+                {
+                    <!-- Renderiza la información de cada tarea -->
+                    <div class="task">
+                        <div class="task-content">
+                            <!-- Detalles de la tarea -->
+                            <p><strong>Título:</strong> @tarea.Title</p>
+                            <p><strong>Estado:</strong> @tarea.Status</p>
+                            <p><strong>Descripción:</strong> @tarea.Description</p>
+                            <p><strong>Prioridad:</strong> @tarea.Priority</p>
+                            <p><strong>Fecha de Vencimiento:</strong> @tarea.DueDate.ToString("dd/MM/yyyy")</p>
+                            <p><strong>Fecha de Creación:</strong> @tarea.CreatedDate.ToString("dd/MM/yyyy")</p>
+                        </div>
+                        <div class="task-actions">
+                            <!-- Formulario para editar la tarea -->
+                            <form asp-action="TareaEdit" method="get">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit">Editar</button>
+                            </form>
+                            <!-- Formulario para eliminar la tarea -->
+                            <form asp-action="TareaDelete" method="post">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit" class="btn-delete">Eliminar</button>
+                            </form>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="column">
+                <div class="column-header">En Proceso</div>
+                @foreach (var tarea in Model.Where(t => t.Status == "En Proceso"))
+
+                {
+                    <div class="task">
+                        <div class="task-content">
+                            <p><strong>Título:</strong> @tarea.Title</p>
+                            <p><strong>Estado:</strong> @tarea.Status</p>
+                            <p><strong>Descripción:</strong> @tarea.Description</p>
+                            <p><strong>Prioridad:</strong> @tarea.Priority</p>
+                            <p><strong>Fecha de Vencimiento:</strong> @tarea.DueDate.ToString("dd/MMMM/yyyy")</p>
+
+                            <p><strong>Fecha de Creación:</strong> @tarea.CreatedDate.ToString("dd/MMMM/yyyy")</p>
+                        </div>
+                        <div class="task-actions">
+                            <form asp-action="TareaEdit" method="get">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit">Editar</button>
+                            </form>
+                            <form asp-action="TareaDelete" method="post">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="button" onclick="confirmarEliminar(@tarea.Id)"
+                                    class="btn-delete">Eliminar</button>
+                            </form>
+
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="column">
+                <div class="column-header">Hecho</div>
+                @foreach (var tarea in Model.Where(t => t.Status == "Hecho"))
+
+                {
+                    <div class="task">
+                        <div class="task-content">
+
+                            <p><strong>Título:</strong> @tarea.Title</p>
+                            <p><strong>Estado:</strong> @tarea.Status</p>
+                            <p><strong>Descripción:</strong> @tarea.Description</p>
+                            <p><strong>Prioridad:</strong> @tarea.Priority</p>
+                            <p><strong>Fecha de Vencimiento:</strong> @tarea.DueDate.ToString("dd/MMMM/yyyy")</p>
+
+                            <p><strong>Fecha de Creación:</strong> @tarea.CreatedDate.ToString("dd/MMMM/yyyy")</p>
+                        </div>
+                        <div class="task-actions">
+                            <form asp-action="TareaEdit" method="get">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit">Editar</button>
+                            </form>
+                            <form asp-action="TareaDelete" method="post">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit" class="btn-delete">Eliminar</button>
+                            </form>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="column">
+                <div class="column-header">Aprobado</div>
+                @foreach (var tarea in Model.Where(t => t.Status == "Aprobado"))
+
+                {
+                    <div class="task">
+                        <div class="task-content">
+                            <p><strong>Título:</strong> @tarea.Title</p>
+                            <p><strong>Estado:</strong> @tarea.Status</p>
+                            <p><strong>Descripción:</strong> @tarea.Description</p>
+                            <p><strong>Prioridad:</strong> @tarea.Priority</p>
+                            <p><strong>Fecha de Vencimiento:</strong> @tarea.DueDate.ToString("dd/MMMM/yyyy")</p>
+                            <p><strong>Fecha de Creación:</strong> @tarea.CreatedDate.ToString("dd/MMMM/yyyy")</p>
+                        </div>
+                        <div class="task-actions">
+                            <form asp-action="TareaEdit" method="get">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit">Editar</button>
+                            </form>
+                            <form asp-action="TareaDelete" method="post">
+                                <input type="hidden" name="id" value="@tarea.Id" />
+                                <button type="submit" class="btn-delete">Eliminar</button>
+                            </form>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+        <br>
+        <div class="btn-group">
+            <!-- Formulario para mostrar tareas a eliminar -->
+            <form asp-controller="Encargado" asp-action="TareaShowToDelete" method="get">
+
+            </form>
+            <!-- Formulario para crear una nueva tarea -->
+            <form asp-controller="Encargado" asp-action="NuevaTarea" method="get">
+                <button type="submit" class="btn btn-outline-primary btn-center">Nueva Tarea</button>
+            </form>
+
+            <!-- Formulario para editar una tarea -->
+            <form asp-controller="Encargado" asp-action="TareaEdit" method="get">
+
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

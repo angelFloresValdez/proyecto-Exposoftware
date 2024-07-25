@@ -1,0 +1,136 @@
+@model TareaModel
+
+@{
+    ViewData["Title"] = "Editar Tarea";
+
+    Layout = null; // No especifica el layout para esta vista
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        /* Estilos personalizados para la vista */
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .form-container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+        }
+
+        .btn-primary,
+        .btn-secondary {
+            padding: 10px 20px;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            border: none;
+            margin: 5px;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+        .btn-secondary {
+            background-color: #6c757d;
+        }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+
+        .text-danger {
+            color: #dc3545;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="form-container">
+        <h1>Editar Tarea</h1>
+        <!-- Formulario de edición de tarea -->
+        <form asp-action="TareaEdit" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <!-- Campo para el título de la tarea -->
+                <label asp-for="Title" class="control-label">Título</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <!-- Campo para la descripción de la tarea -->
+                <label asp-for="Description" class="control-label">Descripción</label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <!-- Campo para el estado de la tarea -->
+                <label asp-for="Status" class="control-label">Estado</label>
+                <select asp-for="Status" class="form-control">
+                    <option value="Por Hacer">Por Hacer</option>
+                    <option value="En Proceso">En Proceso</option>
+                    <option value="Hecho">Hecho</option>
+                    <option value="Aprobado">Aprobado</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <!-- Campo para la prioridad de la tarea -->
+                <label asp-for="Priority" class="control-label">Prioridad</label>
+                <input asp-for="Priority" class="form-control" />
+                <span asp-validation-for="Priority" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <!-- Campo para la fecha de vencimiento de la tarea -->
+                <label asp-for="DueDate" class="control-label">Fecha de Vencimiento</label>
+                <input asp-for="DueDate" class="form-control" />
+                <span asp-validation-for="DueDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <!-- Campo para la fecha de creación de la tarea -->
+                <label asp-for="CreatedDate" class="control-label">Fecha de Creación</label>
+                <input asp-for="CreatedDate" class="form-control" />
+                <span asp-validation-for="CreatedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <!-- Botón para guardar los cambios -->
+                <input type="submit" value="Guardar Cambios" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

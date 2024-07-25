@@ -1,0 +1,134 @@
+@{
+    ViewData["Title"] = "Iniciar Sesión";
+}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+    <style>
+        /* Estilos personalizados para la vista */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .form-container {
+            display: flex;
+            width: 80%;
+            max-width: 1200px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .left {
+            flex: 1;
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .right {
+            flex: 1;
+            background-color: #3b82f6;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+        }
+
+        .right h1 {
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+
+        .right form {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .right input,
+        .right button {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1em;
+        }
+
+        .right button {
+            background-color: #ffffff;
+            color: #3b82f6;
+            cursor: pointer;
+        }
+
+        .right button:hover {
+            background-color: #3b82f6;
+            color: #ffffff;
+        }
+
+        .right a {
+            color: #ffffff;
+            text-decoration: none;
+            margin-top: 20px;
+            font-size: 1em;
+        }
+
+        .right a:hover {
+            text-decoration: underline;
+        }
+
+        .illustration {
+            width: 80%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="form-container">
+            <div class="left">
+                <!-- Imagen ilustrativa para la sección -->
+                <img src="~/img/login.png" alt="login" class="img-fluid mt-4">
+            </div>
+            <div class="right">
+                <h1>Iniciar Sesión</h1>
+                <!-- Mensaje de error mostrado si hay un error de autenticación -->
+                @if (!string.IsNullOrEmpty(ViewBag.Error))
+
+                {
+                    <p class="text-danger">@ViewBag.Error</p>
+                }
+                <!-- Formulario de inicio de sesión que se envía al controlador Home y acción IniciarSesionPost -->
+                <form asp-controller="Home" asp-action="IniciarSesionPost" method="post">
+                    <input type="email" name="correo" placeholder="Correo Electrónico" required>
+                    <input type="password" name="contraseña" placeholder="Contraseña" required>
+                    <!-- Botón de envío del formulario -->
+                    <button type="submit">Iniciar Sesión</button>
+                </form>
+                <!-- Enlace para redirigir a la página de registro -->
+                <a href="/Home/CrearCuenta">¿No tienes cuenta? Regístrate aquí.</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

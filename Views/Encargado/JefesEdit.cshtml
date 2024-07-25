@@ -1,0 +1,52 @@
+@model JefeModel // Define el modelo de la vista
+
+@{
+    ViewData["Title"] = "Editar jefe";
+}
+
+<div class="container">
+    <div class="text-center mb-4">
+        <h1 class="display-4">Editar jefe</h1>
+    </div>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <!-- Muestra mensajes de validación en caso de errores -->
+
+    <form asp-controller="Encargado" asp-action="JefesEdit" method="post">
+        <!-- Formulario para enviar datos al método "JefesEdit" del controlador "Encargado" -->
+
+        <input asp-for="Id" type="hidden" /> <!-- Campo oculto para enviar el Id del jefe -->
+
+        <div class="mb-3">
+            <label asp-for="NombreJefe" class="form-label">Nombre del jefe</label>
+            <!-- Etiqueta y campo de entrada para el nombre del jefe -->
+            <input asp-for="NombreJefe" class="form-control" /> <!-- Campo para ingresar/editar el nombre del jefe -->
+            <span asp-validation-for="NombreJefe" class="text-danger"></span>
+            <!-- Muestra mensajes de validación específicos para el nombre del jefe -->
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Departamento" class="form-label">Departamento</label>
+            <!-- Etiqueta y campo de entrada para el departamento del jefe -->
+            <input asp-for="Departamento" class="form-control" />
+            <!-- Campo para ingresar/editar el departamento del jefe -->
+            <span asp-validation-for="Departamento" class="text-danger"></span>
+            <!-- Muestra mensajes de validación específicos para el departamento -->
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Sueldo" class="form-label">Sueldo</label>
+            <!-- Etiqueta y campo de entrada para el sueldo del jefe -->
+            <input asp-for="Sueldo" class="form-control" /> <!-- Campo para ingresar/editar el sueldo del jefe -->
+            <span asp-validation-for="Sueldo" class="text-danger"></span>
+            <!-- Muestra mensajes de validación específicos para el sueldo -->
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-outline-primary me-2">Guardar</button>
+            <!-- Botón para guardar los cambios -->
+            <a asp-controller="Encargado" asp-action="MenuEnc" class="btn btn-outline-secondary">Regresar</a>
+            <!-- Boton para regresar al menú principal sin guardar los cambios -->
+        </div>
+    </form>
+</div>

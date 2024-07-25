@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ProyectoFinalPOO2.props" />
+</Project>

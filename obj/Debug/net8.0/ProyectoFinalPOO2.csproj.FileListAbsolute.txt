@@ -1,0 +1,579 @@
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.staticwebassets.runtime.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.exe
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.deps.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.runtimeconfig.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfoInputs.cache
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfo.cs
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.CoreCompileInputs.cache
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cache
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cs
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.ProyectoFinalPOO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.build.ProyectoFinalPOO2.props
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProyectoFinalPOO2.props
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProyectoFinalPOO2.props
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/bundle/ProyectoFinalPOO2.styles.css
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/projectbundle/ProyectoFinalPOO2.bundle.scp.css
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/refint/ProyectoFinalPOO2.dll
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.genruntimeconfig.cache
+C:/Users/julia/OneDrive/Escritorio/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ref/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfoInputs.cache
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfo.cs
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.CoreCompileInputs.cache
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cache
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cs
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/refint/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.staticwebassets.runtime.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.exe
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.deps.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.runtimeconfig.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.ProyectoFinalPOO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.build.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/bundle/ProyectoFinalPOO2.styles.css
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/projectbundle/ProyectoFinalPOO2.bundle.scp.css
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.genruntimeconfig.cache
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ref/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.AssemblyReference.cache
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/Proyecto.DE6B7D99.Up2Date
+C:/Users/Angel Flores/Desktop/ProyectoPOO2/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.sourcelink.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.staticwebassets.runtime.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.exe
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.deps.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.runtimeconfig.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.AssemblyReference.cache
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfoInputs.cache
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfo.cs
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.CoreCompileInputs.cache
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cache
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cs
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.ProyectoFinalPOO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.build.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/bundle/ProyectoFinalPOO2.styles.css
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/projectbundle/ProyectoFinalPOO2.bundle.scp.css
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/Proyecto.DE6B7D99.Up2Date
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/refint/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.genruntimeconfig.cache
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ref/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Downloads/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.sourcelink.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.staticwebassets.runtime.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.exe
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.deps.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.runtimeconfig.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.AssemblyReference.cache
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfoInputs.cache
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfo.cs
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.CoreCompileInputs.cache
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cache
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cs
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.ProyectoFinalPOO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.build.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProyectoFinalPOO2.props
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/bundle/ProyectoFinalPOO2.styles.css
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/projectbundle/ProyectoFinalPOO2.bundle.scp.css
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/Proyecto.DE6B7D99.Up2Date
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/refint/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.pdb
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.genruntimeconfig.cache
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ref/ProyectoFinalPOO2.dll
+C:/Users/Angel Flores/Desktop/Proyecto-POO2-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.sourcelink.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/appsettings.Development.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.staticwebassets.runtime.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.deps.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.runtimeconfig.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ProyectoFinalPOO2.pdb
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Core.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Azure.Identity.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Humanizer.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Npgsql.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.CodeDom.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.AssemblyReference.cache
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfoInputs.cache
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.AssemblyInfo.cs
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.csproj.CoreCompileInputs.cache
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.MvcApplicationPartsAssemblyInfo.cache
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cache
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.RazorAssemblyInfo.cs
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.ProyectoFinalPOO2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.build.ProyectoFinalPOO2.props
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProyectoFinalPOO2.props
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProyectoFinalPOO2.props
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/bundle/ProyectoFinalPOO2.styles.css
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/scopedcss/projectbundle/ProyectoFinalPOO2.bundle.scp.css
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/Proyecto.DE6B7D99.Up2Date
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/refint/ProyectoFinalPOO2.dll
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.pdb
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ProyectoFinalPOO2.genruntimeconfig.cache
+/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/obj/Debug/net8.0/ref/ProyectoFinalPOO2.dll

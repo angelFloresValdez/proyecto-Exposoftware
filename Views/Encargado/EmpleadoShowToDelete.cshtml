@@ -1,0 +1,16 @@
+@model RegEmpleadoModel //Modelo para la vista
+
+<form asp-controller="Encargado" asp-action="RegEmpleadoDelete" method="post">
+    <!-- Formulario para eliminar empleado" -->
+    <div class="card-body">
+        <h5 class="card-title">Información del Empleado</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">¿Seguro que desea Dar de baja al empleado?</h6>
+        <p class="card-text">Empleado: @Model.NombreCompleto que labora en el departamento de @Model.Departamento</p>
+
+        <input type="hidden" asp-for="Id" /> <!-- Campo oculto para el Id del empleado -->
+        <button type="submit" class="btn btn-outline-danger">Borrar</button>
+        <!-- Botón para confirmar la eliminación del empleado -->
+        <a class="btn btn-outline-secondary" asp-action="MenuEnc">Cancelar</a>
+        <!-- Enlace para cancelar y regresar al menú principal -->
+    </div>
+</form>

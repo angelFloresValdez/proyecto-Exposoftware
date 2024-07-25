@@ -1,0 +1,123 @@
+@model RegEmpleadoModel //se define el modelo de la vista
+
+@{
+    ViewData["Title"] = "Editar Empleado";
+}
+
+<div class="container">
+    <div class="text-center mb-4">
+        <h1 class="display-2">Editar Empleado</h1>
+    </div>
+
+    <div asp-validation-summary="All" class="text-danger"></div> <!-- Muestra los errores de validación -->
+
+    <form asp-controller="Encargado" asp-action="EmpleadoEdit" method="post">
+        <input type="hidden" asp-for="Id" /> <!-- Campo oculto para el Id del empleado -->
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="NombreCompleto" class="form-label">Nombre del empleado</label>
+                <input type="text" class="form-control form-control-sm" asp-for="NombreCompleto"
+                    placeholder="Escriba el nombre" />
+                <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el nombre -->
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="FechaEntrada" class="form-label">Fecha de entrada</label>
+                <input type="date" class="form-control form-control-sm" asp-for="FechaEntrada" />
+                <span asp-validation-for="FechaEntrada"
+                    class="text-danger"></span><!-- Mensaje de error de validación para la fecha de entrada -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="FechaNac" class="form-label">Fecha de nacimiento</label>
+                <input type="date" class="form-control form-control-sm" asp-for="FechaNac" />
+                <span asp-validation-for="FechaNac"
+                    class="text-danger"></span><!-- Mensaje de error de validación para la fecha de nacimiento -->
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="Nacionalidad" class="form-label">Nacionalidad</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Nacionalidad"
+                    placeholder="Escriba la nacionalidad" />
+                <span asp-validation-for="Nacionalidad" class="text-danger"></span>
+                <!-- Mensaje de error de validación para la nacionalidad -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="EstadoCivil" class="form-label">Estado civil</label>
+                <input type="text" class="form-control form-control-sm" asp-for="EstadoCivil"
+                    placeholder="Escriba el estado civil" />
+                <span asp-validation-for="EstadoCivil" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el estado civil -->
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="Curp" class="form-label">CURP</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Curp" placeholder="Escriba el CURP" />
+                <span asp-validation-for="Curp" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el CURP -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="Rfc" class="form-label">RFC</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Rfc" placeholder="Escriba el RFC" />
+                <span asp-validation-for="Rfc" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el RFC -->
+            </div>
+            <div class="col-md-6 mb-3">
+                <label asp-for="Domicilio" class="form-label">Domicilio</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Domicilio"
+                    placeholder="Escriba el domicilio" />
+                <span asp-validation-for="Domicilio" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el domicilio -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label asp-for="Turno" class="form-label">Turno</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Turno"
+                    placeholder="Escriba el turno" />
+                <span asp-validation-for="Turno" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el turno -->
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Jefe">Jefe</label>
+                <select asp-for="Jefe" class="form-control">
+                    <option value="">Seleccione un Jefe</option>
+                    @foreach (var jefe in ViewBag.Jefes)
+
+                    {
+                        <option value="@jefe.NombreJefe">@jefe.NombreJefe</option>
+                        <!-- Opciones de selección para el jefe -->
+                    }
+                </select>
+                <span asp-validation-for="Jefe" class="text-danger"></span>
+                <!-- Mensaje de error de validación para el jefe -->
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Departamento" class="form-label">Departamento</label>
+                    <input type="text" class="form-control form-control-sm" asp-for="Departamento"
+                        placeholder="Escriba el nombre del departamento" />
+                    <span asp-validation-for="Departamento" class="text-danger"></span>
+                    <!-- Mensaje de error de validación para el departamento -->
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-outline-primary me-2">Guardar</button>
+                <!-- Botón para guardar los cambios -->
+
+                <a asp-controller="Encargado" asp-action="MenuEnc" class="btn btn-outline-secondary">Regresar</a>
+                <!-- Enlace para regresar al menú principal -->
+            </div>
+
+    </form>
+</div>

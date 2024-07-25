@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoFinalPOO2
+build_property.RootNamespace = ProyectoFinalPOO2
+build_property.ProjectDir = /Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/AsignarTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0FzaWduYXJUYXJlYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/EmpleadoEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0VtcGxlYWRvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/EmpleadoShowToDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0VtcGxlYWRvU2hvd1RvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/JefesAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0plZmVzQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/JefesEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0plZmVzRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/JefeShowToDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0plZmVTaG93VG9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/JefesLis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0plZmVzTGlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/ListaEmpleado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL0xpc3RhRW1wbGVhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/MenuEnc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL01lbnVFbmMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/NuevaTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL051ZXZhVGFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/RegEmpleado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL1JlZ0VtcGxlYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Encargado/TareaEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5jYXJnYWRvL1RhcmVhRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Home/CrearCuenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DcmVhckN1ZW50YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Home/IniciarSesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmljaWFyU2VzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Home/Servicios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXJ2aWNpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/angelflores/Desktop/Proyecto/Proyecto-Final-poo2-Equipo3-main/ProyectoFinalPOO2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8lnubw3ud6

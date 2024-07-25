@@ -1,0 +1,174 @@
+@model RegEmpleadoModel //Define el modelo de la vista
+
+@{
+    ViewData["Title"] = "Registro de Empleado";
+
+    Layout = null; // No se especifica un layout para esta vista
+}
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <style>
+        /* Estilos personalizados para la vista */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #5D89B3;
+            color: #000000;
+        }
+
+        .container {
+            margin-top: 30px;
+        }
+
+        .card {
+            border: none;
+            background-color: #fff;
+            color: #000;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .card-header {
+            background-color: #ced4da;
+            border-bottom: none;
+            color: #000000;
+            font-weight: bold;
+            border-radius: 10px 10px 0 0;
+        }
+
+        .card-body {
+            padding: 30px;
+        }
+
+        .form-control {
+            border-radius: 4px;
+            border: 1px solid #ced4da;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            padding: 10px 20px;
+            border-radius: 4px;
+        }
+
+        .btn-primary:hover {
+            background-color: #0069d9;
+            border-color: #0062cc;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <center>
+            <h1>Registro de Empleado</h1>
+        </center>
+
+        <!-- Formulario de registro -->
+        <form asp-action="RegEmpleado" method="post">
+            <!-- Información básica -->
+            <div class="card">
+                <div class="card-header">
+                    Información Básica
+                </div>
+                <div class="card-body">
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label asp-for="NombreCompleto">Nombre Completo</label>
+                            <input asp-for="NombreCompleto" class="form-control" required>
+                            <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="FechaEntrada">Fecha de Entrada</label>
+                            <input asp-for="FechaEntrada" type="date" class="form-control" required>
+                            <span asp-validation-for="FechaEntrada" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-4">
+                            <label asp-for="FechaNac">Fecha de Nacimiento</label>
+                            <input asp-for="FechaNac" type="date" class="form-control" required>
+                            <span asp-validation-for="FechaNac" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="Nacionalidad">Nacionalidad</label>
+                            <input asp-for="Nacionalidad" class="form-control" required>
+                            <span asp-validation-for="Nacionalidad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="EstadoCivil">Estado Civil</label>
+                            <input asp-for="EstadoCivil" class="form-control" required>
+                            <span asp-validation-for="EstadoCivil" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-4">
+                            <label asp-for="Curp">CURP</label>
+                            <input asp-for="Curp" class="form-control" required>
+                            <span asp-validation-for="Curp" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="Rfc">RFC</label>
+                            <input asp-for="Rfc" class="form-control" required>
+                            <span asp-validation-for="Rfc" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="Domicilio">Domicilio</label>
+                            <input asp-for="Domicilio" class="form-control" required>
+                            <span asp-validation-for="Domicilio" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Información adicional -->
+            <div class="card">
+                <div class="card-header">
+                    Información Adicional
+                </div>
+                <div class="card-body">
+                    <div class="form-row">
+                        <div class="form-group col-md-4">
+                            <label asp-for="Turno">Turno</label>
+                            <input asp-for="Turno" class="form-control" required>
+                            <span asp-validation-for="Turno" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="Jefe">Jefe</label>
+                            <select asp-for="Jefe" class="form-control">
+                                <option value="">Seleccione un Jefe</option>
+                                @foreach (var jefe in ViewBag.Jefes)
+
+                                {
+                                    <option value="@jefe.NombreJefe">@jefe.NombreJefe</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Jefe" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="Departamento">Departamento</label>
+                            <input asp-for="Departamento" class="form-control" required>
+                            <span asp-validation-for="Departamento" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botón de envío -->
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-primary">Registrar</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

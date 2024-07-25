@@ -1,0 +1,305 @@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+            background-color: #f0f0f0;
+        }
+
+        .navbar {
+            width: 100%;
+            background-color: #ffffff;
+            padding: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .navbar a {
+            text-decoration: none;
+            color: #000;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .navbar a:hover {
+            background-color: #ddd;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 50px;
+        }
+
+        .sidebar {
+            width: 40%;
+            /* TAMAÑO DEL MENU */
+            max-width: 300px;
+            min-width: 200px;
+            background-color: #2d3e50;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            z-index: 999;
+        }
+
+        .sidebar img.profile-img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+
+        .sidebar .info {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .sidebar .info h2 {
+            margin: 5px 0;
+        }
+
+        .sidebar .info h3 {
+            margin: 0;
+            font-weight: normal;
+            color: #8fa1b3;
+        }
+
+        .sidebar ul {
+            list-style-type: none;
+            padding: 0;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .sidebar ul li {
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        .sidebar ul li a {
+            text-decoration: none;
+            color: white;
+            display: block;
+            padding: 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .sidebar ul li a:hover {
+            background-color: #3b4a61;
+        }
+
+        .main-content {
+            margin-left: 20%;
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            background-color: #f0f0f0;
+            padding: 20px;
+            overflow-y: auto;
+            transition: margin-left 0.3s ease;
+        }
+
+        .main-content img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .power-button {
+            margin-top: auto;
+            cursor: pointer;
+            font-size: 20px;
+            color: white;
+            padding: 10px;
+            background-color: #2d3e50;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            text-align: center;
+            line-height: 30px;
+            transition: background-color 0.3s;
+        }
+
+        .power-button:hover {
+            background-color: #3b4a61;
+        }
+
+        .logout {
+            margin-top: 20px;
+            cursor: pointer;
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+        }
+
+        .dynamic-content {
+            width: 100%;
+            overflow-y: auto;
+            padding: 10px;
+            min-height: calc(100vh - 60px);
+        }
+
+        /* Estilo para el input de archivo */
+        #uploadForm {
+            width: 100%;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        #imageUpload {
+            /* Ocultar el input real */
+            display: none;
+        }
+
+        .custom-file-upload {
+            display: inline-block;
+            padding: 10px 20px;
+            cursor: pointer;
+            color: #fff;
+            background-color: #3b4a61;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .custom-file-upload:hover {
+            background-color: #4c5a77;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="sidebar">
+        <img src="~/img/" alt="login" class="img-fluid profile-img" id="profileImg">
+        <div class="info">
+            <h2>Julian Macias Lara</h2>
+            <h3>Encargado</h3>
+            <p id="dateTime"> </p>
+        </div>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <label for="imageUpload" class="custom-file-upload">
+                Seleccionar Imagen
+            </label>
+            <input type="file" id="imageUpload" name="profileImage" accept="image/*">
+        </form>
+        <ul>
+            <li><a href="#" onclick="loadPage('Encargado/RegEmpleado')">Agregar usuario</a></li>
+            <li><a href="#" onclick="loadPage('Encargado/AsignarTarea')">Asignar Tareas</a></li>
+            <li><a href="#" onclick="loadPage('Encargado/ListaEmpleado')">Lista de Empleados</a></li>
+            <li><a href="#" onclick="loadPage('Encargado/JefesLis')">Lista de Jefes</a></li>
+        </ul>
+        <img src="~/img/salir.png" alt="logout" class="logout" onclick="confirmLogout()">
+    </div>
+
+    <div class="main-content">
+        <div class="dynamic-content" id="dynamic-content">
+        </div>
+    </div>
+
+    <form id="logout-form" method="post" action="/Account/Logout" style="display:none;">
+        @Html.AntiForgeryToken()
+    </form>
+
+    <script>
+        // Función para obtener la hora actual en formato de 12 horas
+        function getCurrentTime() {
+            const now = new Date();
+            let hours = now.getHours();
+            let minutes = now.getMinutes();
+            const period = hours >= 12 ? 'PM' : 'AM';
+            hours = hours % 12;
+            hours = hours ? hours : 12; // La hora '0' debería ser '12'
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+            return `${hours}:${minutes} ${period}`;
+        }
+
+        // Función para obtener la fecha actual en formato DD de Mes de YYYY
+        function getCurrentDate() {
+            const now = new Date();
+            const day = now.getDate();
+            const monthNames = ["Ene", "Feb", "Mar", "Abr", "May", "Jun",
+                "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"];
+            const monthIndex = now.getMonth();
+            const year = now.getFullYear();
+            return `${day} de ${monthNames[monthIndex]} de ${year}`;
+        }
+
+        // Función para actualizar el reloj y la fecha cada segundo
+        function updateClockAndDate() {
+            document.getElementById('dateTime').textContent = `${getCurrentTime()} - ${getCurrentDate()}`;
+            setTimeout(updateClockAndDate, 1000);
+        }
+
+        // Ejecutar la función para iniciar el reloj y la fecha
+        updateClockAndDate();
+
+        window.onload = function () {
+            const storedImage = localStorage.getItem('profileImage');
+            if (storedImage) {
+                document.getElementById('profileImg').src = storedImage;
+            }
+        };
+
+        document.getElementById('imageUpload').addEventListener('change', function (event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    const imageUrl = e.target.result;
+                    document.getElementById('profileImg').src = imageUrl;
+                    localStorage.setItem('profileImage', imageUrl);
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        function confirmLogout() {
+            if (confirm("¿Seguro que quieres cerrar sesión?")) {
+                window.location.href = "/Home/IniciarSesion";
+            }
+        }
+
+        function loadPage(page) {
+            const xhr = new XMLHttpRequest();
+            xhr.open('GET', `/${page}`, true);
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    document.getElementById('dynamic-content').innerHTML = xhr.responseText;
+                }
+            };
+            xhr.onerror = function () {
+                console.error("Error al cargar la página.");
+            };
+            xhr.send();
+        }
+    </script>
+</body>
+
+</html>
